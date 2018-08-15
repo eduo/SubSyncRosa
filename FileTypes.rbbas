@@ -1,0 +1,1 @@
+#tag FileTypeSet	#tag FileType		CodeName=Subtitle		Extension=srt		Flags=&h5		MacCreator=		MacType=		Name=subtitle	#tag EndFileType#tag EndFileTypeSet
